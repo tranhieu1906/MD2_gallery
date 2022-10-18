@@ -1,0 +1,10 @@
+.main {
+  margin: 10px;
+}
+.col {
+  border: 1px solid #ccc;
+  padding: 0;
+}
+.row {
+  gap: 10px;
+}
